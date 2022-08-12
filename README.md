@@ -1,5 +1,4 @@
-[Logo](https://res.cloudinary.com/dftcb6kys/image/upload/c_scale,w_200/v1658964168/tab-logo_vo0di5.png)
-
+![image](https://res.cloudinary.com/dftcb6kys/image/upload/c_scale,w_200/v1658964168/tab-logo_vo0di5.png)
 
 # Stuff To Do from The Booth
 
