@@ -7,7 +7,7 @@
 
 [This](https://stufftodofromthebooth.netlify.app/) is a quick and simple front-end only to do app that I created to console myself and get some dopamine after a day of imposter syndrome during my Final Project at the School of Code.
 
-It was a fun and refreshing exercise mainly created to cement my knowledge of react hooks specifically useState.
+It was a fun and refreshing exercise mainly created to cement my knowledge of react hooks specifically useState and create a sleek design to test my CSS skills.
 
 Future iterations of this app would see a backend and authentiaction so that users can create multiple lists of stuff they need to do.
 
